@@ -1,34 +1,51 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: >
+  Advancing Equitable and Recovery-Oriented Mental Health Systems
+  
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Pennsylvania</p>
+    <p>Philadelphia, PA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false  # includes a list of news items
+selected_papers: false # includes a list of the your selected papers
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a researcher and scholar focused on advancing **recovery-oriented and equitable mental health systems**. My work integrates implementation science, quantitative methods, and recovery theory to understand and improve mental health services—particularly for individuals with serious mental illness and racially or linguistically minoritized populations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Focus
+
+My research bridges the gap between knowing what good mental health practice looks like and making it happen in real systems. I examine:
+
+**Recovery-Oriented Practice & Competencies**
+- How practitioner competencies, organizational climates, and implementation strategies shape access and recovery outcomes
+- The role of cultural humility and stigma reduction in mental health services
+
+**Implementation & Systems Science**
+- Structural and organizational factors that facilitate or hinder service delivery
+- How policy, workforce composition, and resource allocation impact equitable access
+
+**Service Engagement & Health Disparities**
+- Help-seeking behaviors among marginalized communities
+- Predictive modeling to identify who disengages from care and why
+- Technology-assisted peer support and digital mental health interventions
+
+## Methodological Approach
+
+I employ quantitative and computational methods including:
+- Large-scale administrative and survey data analysis
+- Machine learning and predictive modeling
+- Implementation science frameworks (e.g., CFIR)
+
+---
+
+**Contact:** [subinna@upenn.edu](mailto:subinna@upenn.edu)
