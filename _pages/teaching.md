@@ -3,6 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Teaching Experience
+nav: true
+nav_order: 3
 ---
 
 ## Lab Instructor

@@ -10,7 +10,9 @@ profile:
   align: right
   image: Subin Na_profile.jpg
   image_circular: false
-  more_info:contact_note: >
+  more_info:
+
+contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   "Recovery-Oriented Mental Health Systems | Quantitative Research | Mental Health Disparities"
